@@ -18,8 +18,8 @@ Before starting the labs, ensure you have the following installed:
 ## Installation and Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/blazu6/MPLS_lab.git
-   cd mpls-gns3-labs
+   git clone https://github.com/Blazu6/MPLS_lab.git
+   cd MPLS_lab
    ```
 2. Open GNS3 and import the provided project files.
 3. Start the network topology and configure devices according to the lab guides.
